@@ -1,4 +1,8 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+
+Here’s a more interactive and visually appealing README.md that will grab attention with fun visuals, dynamic content, and interactive elements.
+
+👋 Hi there! I'm [Your Name]
+<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhlb2p6OHZpMHF5bjV1bWRydzJoa2E2eWZuaHI3Z3B6cGNoN3Y5MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/> </div>
 
 ## Jalp Patel
 
