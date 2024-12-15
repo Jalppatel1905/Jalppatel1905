@@ -1,19 +1,38 @@
 
-Here’s a more interactive and visually appealing README.md that will grab attention with fun visuals, dynamic content, and interactive elements.
+# 👋 **Hi there! I'm Jalp Patel**  
 
-👋 Hi there! I'm [Your Name]
-<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhlb2p6OHZpMHF5bjV1bWRydzJoa2E2eWZuaHI3Z3B6cGNoN3Y5MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/> </div>
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhlb2p6OHZpMHF5bjV1bWRydzJoa2E2eWZuaHI3Z3B6cGNoN3Y5MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
+</div>  
 
-## Jalp Patel
+---
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+## 🚀 **About Me**  
+```yaml
+name: Jalp Patel
+role: Full Stack Developer   
+current_focus: React, FastAPI, AI & Data Science  
+interests: 
+  - Building Disaster Recovery Tools
+  - Creating Clean and Interactive Frontends
+  - Contributing to Community Projects 🚀  
+🌱 I’m currently learning Advanced Python & Data Science through SAP x Code Unati.
+🌟 Core Member @ GDG Campus (SSIU) | Social Media Manager.
+💬 Ask me about React, FastAPI, or building innovative projects.
+🎯 Fun Fact: I love working on projects that make a real impact.
+```
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Backend Engineering Lead working for a Health Tech startup in India 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
+## 🛠️ Tech Stack
+Here’s what I use to build awesome projects:
+
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,python,fastapi,firebase,git,github" alt="Tech Stack" /> </div>
+
+
+## 📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="48%" /> </p> 
+
+## 🤝 Let's Connect
+https://bento.me/jalp-patel
+
+## **⭐ Star this repository if you like my profile and projects! 🚀**
